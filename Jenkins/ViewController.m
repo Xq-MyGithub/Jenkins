@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //自动化打包
     // Do any additional setup after loading the view, typically from a nib.
 }
 
